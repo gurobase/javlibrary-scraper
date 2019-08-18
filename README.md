@@ -4,7 +4,7 @@ JAVLibrary scraper is a Node script that automatically crawls JAVLibrary and scr
 
 
 ## Usage:
-**scraper** - shows scraper the command list.<br>
+**scraper** - shows the scraper command list.<br>
 **scraper category** - scrapes JAVLibrary for all the categories and saves them to the database. Required for scraping videos.<br>
 **scraper video** - scrapes all the videos from JAVLibrary.<br>
 **scraper video *(category name)*** - scrapes all the videos from JAVLibrary with a category offset*.<br>

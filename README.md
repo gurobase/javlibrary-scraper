@@ -1,18 +1,16 @@
 # javlibrary-scraper
-JAVLibrary scraper is a Node script that automatically crawls JAVLibrary and scrapes all the data to an SQLite database.<br>
+JAVLibrary scraper is a Node script that automatically crawls JAVLibrary and scrapes all the data to an SQLite database with a many-to-many relationship.<br>
 
 
 
 ## Usage:
-**scraper** - will show the basic usage.<br>
+**scraper** - shows scraper the command list.<br>
 **scraper category** - scrapes JAVLibrary for all the categories and saves them to the database. Required for scraping videos.<br>
 **scraper video** - scrapes all the videos from JAVLibrary.<br>
 **scraper video *(category name)*** - scrapes all the videos from JAVLibrary with a category offset*.<br>
 **scraper video *(category name) (page #)*** - scrapes all the videos from JAVLibrary with a category and page offset*.<br>
 
 *Offset will allow you to not start all over scraping JAVLibrary if the scraping failed for some reason or you decide to pause it. 
-
-## Database structure:
 
 ## Dependencies:
 [x-ray](https://www.npmjs.com/package/x-ray)<br>

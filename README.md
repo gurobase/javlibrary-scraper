@@ -1,2 +1,2 @@
 # javlibrary-scraper
-Scrape JAVLibrary with easy
+Scrape JAVLibrary with ease

@@ -9,6 +9,7 @@
 **scrape video** - scrapes all the videos from JAVLibrary.<br>
 **scrape video -category *category name*** - scrapes all the videos from JAVLibrary with a category offset*.<br>
 **scrape video -category *category name* -page *page #*** - scrapes all the videos from JAVLibrary with a category and page offset*.<br>
+**scrape delete** - clears and vacuums the database.<br>
 
 *the offset will allow you to not start all over scraping JAVLibrary if the scraping failed for some reason or you decide to pause it. 
 

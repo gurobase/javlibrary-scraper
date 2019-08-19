@@ -18,7 +18,7 @@
 [request-promise](https://www.npmjs.com/package/request-promise)<br>
 [cloudscraper](https://www.npmjs.com/package/cloudscraper)<br>
 [cheerio](https://www.npmjs.com/package/cheerio)<br>
-[better-sqlite3](https://www.npmjs.com/package/better-sqlite3)
+[better-sqlite3](https://www.npmjs.com/package/better-sqlite3)<br>
 [minimist](https://www.npmjs.com/package/minimist)
 
 

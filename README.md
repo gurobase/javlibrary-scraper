@@ -10,14 +10,14 @@
 **scrape video *(category name)*** - scrapes all the videos from JAVLibrary with a category offset*.<br>
 **scrape video *(category name) (page #)*** - scrapes all the videos from JAVLibrary with a category and page offset*.<br>
 
-*Offset will allow you to not start all over scraping JAVLibrary if the scraping failed for some reason or you decide to pause it. 
+*the offset will allow you to not start all over scraping JAVLibrary if the scraping failed for some reason or you decide to pause it. 
 
 ## Dependencies:
 [x-ray](https://www.npmjs.com/package/x-ray)<br>
 [chalk](https://www.npmjs.com/package/chalk)<br>
 [request-promise](https://www.npmjs.com/package/request-promise)<br>
 [cloudscraper](https://www.npmjs.com/package/cloudscraper)<br>
-[cheerio](https://www.npmjs.com/package/cheerio)
+[cheerio](https://www.npmjs.com/package/cheerio)<br>
 [better-sqlite3](https://www.npmjs.com/package/better-sqlite3)
 
 

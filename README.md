@@ -8,7 +8,7 @@
 **scrape category** - scrapes JAVLibrary for all the categories and saves them to the database. Required for scraping videos.<br>
 **scrape video** - scrapes all the videos from JAVLibrary.<br>
 **scrape video *-category name*** - scrapes all the videos from JAVLibrary with a category offset*.<br>
-**scrape video *-category name -page #)*** - scrapes all the videos from JAVLibrary with a category and page offset*.<br>
+**scrape video *-category name -page #*** - scrapes all the videos from JAVLibrary with a category and page offset*.<br>
 
 *the offset will allow you to not start all over scraping JAVLibrary if the scraping failed for some reason or you decide to pause it. 
 
